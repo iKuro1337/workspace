@@ -1,0 +1,17 @@
+activeLaunchTarget=org.eclipse.cdt.arduino.core.connectionType\:ESP8266_GENERIC
+configDescList=org.eclipse.cdt.arduino.core.descriptorType\:hel,org.eclipse.cdt.arduino.core.descriptorType\:LUX,org.eclipse.cdt.arduino.core.descriptorType\:AJAX
+eclipse.preferences.version=1
+org.eclipse.cdt.arduino.core.descriptorType\:AJAX/activeLaunchMode=run
+org.eclipse.cdt.arduino.core.descriptorType\:AJAX/activeLaunchTarget=org.eclipse.cdt.arduino.core.connectionType\:ESP8266
+org.eclipse.cdt.arduino.core.descriptorType\:HELLO/activeLaunchMode=run
+org.eclipse.cdt.arduino.core.descriptorType\:LUX/activeLaunchMode=run
+org.eclipse.cdt.arduino.core.descriptorType\:LUX/activeLaunchTarget=org.eclipse.cdt.arduino.core.connectionType\:ESP8266
+org.eclipse.cdt.arduino.core.descriptorType\:cxasas/activeLaunchMode=run
+org.eclipse.cdt.arduino.core.descriptorType\:cxasas/activeLaunchTarget=org.eclipse.cdt.arduino.core.connectionType\:ESP8266_GENERIC
+org.eclipse.cdt.arduino.core.descriptorType\:hel/activeLaunchMode=run
+org.eclipse.cdt.arduino.core.descriptorType\:hel/activeLaunchTarget=org.eclipse.cdt.arduino.core.connectionType\:ESP8266
+org.eclipse.cdt.arduino.core.descriptorType\:hello/activeLaunchTarget=org.eclipse.cdt.arduino.core.connectionType\:ESP8266_GENERIC
+org.eclipse.cdt.arduino.core.descriptorType\:hello1/activeLaunchMode=run
+org.eclipse.cdt.arduino.core.descriptorType\:hello1/activeLaunchTarget=org.eclipse.cdt.arduino.core.connectionType\:ESP8266_GENERIC
+org.eclipse.launchbar.core.descriptorType.default\:cxasas/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:cxasas/activeLaunchTarget=org.eclipse.remote.LocalServices\:Local

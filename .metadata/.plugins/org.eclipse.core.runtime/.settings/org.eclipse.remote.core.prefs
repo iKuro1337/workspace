@@ -1,0 +1,14 @@
+connections/org.eclipse.cdt.arduino.core.connectionType/ESP8266/arduinoBoardName=Generic ESP8266 Module
+connections/org.eclipse.cdt.arduino.core.connectionType/ESP8266/arduinoPackageName=esp8266
+connections/org.eclipse.cdt.arduino.core.connectionType/ESP8266/arduinoPlatformName=esp8266
+connections/org.eclipse.cdt.arduino.core.connectionType/ESP8266/arduinoPortName=COM1
+connections/org.eclipse.cdt.arduino.core.connectionType/ESP8266/menu_CpuFrequency=160
+connections/org.eclipse.cdt.arduino.core.connectionType/ESP8266/menu_Debug=Disabled
+connections/org.eclipse.cdt.arduino.core.connectionType/ESP8266/menu_DebugLevel=None____
+connections/org.eclipse.cdt.arduino.core.connectionType/ESP8266/menu_FlashFreq=40
+connections/org.eclipse.cdt.arduino.core.connectionType/ESP8266/menu_FlashMode=dio
+connections/org.eclipse.cdt.arduino.core.connectionType/ESP8266/menu_FlashSize=512K64
+connections/org.eclipse.cdt.arduino.core.connectionType/ESP8266/menu_ResetMethod=ck
+connections/org.eclipse.cdt.arduino.core.connectionType/ESP8266/menu_UploadSpeed=115200
+connections/org.eclipse.cdt.arduino.core.connectionType/ESP8266/menu_UploadTool=esptool
+eclipse.preferences.version=1

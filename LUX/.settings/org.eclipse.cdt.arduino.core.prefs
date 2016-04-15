@@ -1,0 +1,13 @@
+config/generic/boardName=Generic ESP8266 Module
+config/generic/menu_CpuFrequency=160
+config/generic/menu_Debug=Disabled
+config/generic/menu_DebugLevel=None____
+config/generic/menu_FlashFreq=40
+config/generic/menu_FlashMode=dio
+config/generic/menu_FlashSize=512K64
+config/generic/menu_ResetMethod=ck
+config/generic/menu_UploadSpeed=115200
+config/generic/menu_UploadTool=esptool
+config/generic/packageName=esp8266
+config/generic/platformName=esp8266
+eclipse.preferences.version=1
